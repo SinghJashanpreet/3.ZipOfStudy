@@ -1,0 +1,23 @@
+.hoverRed {
+    color: black;
+    font-weight: 500;
+    /* margin-right: 1%; */
+    margin: 9%;
+}
+
+.hoverRed:hover {
+    color: red;
+}
+
+#center {
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    overflow: auto;
+    margin: 2%;
+}
+
+.about {
+    font-size: large;
+    color: white;
+}
